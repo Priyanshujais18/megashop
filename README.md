@@ -1,1 +1,1 @@
-# This front end of ECOMMERCE WEBSITE
+# This is front end of ECOMMERCE WEBSITE
